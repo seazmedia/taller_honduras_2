@@ -6,10 +6,10 @@
 <head runat="server">
     <title>Página sin título</title>
 </head>
-<body>
+<body bgcolor = "teal">
     <form id="form1" runat="server">
     <div>
-    
+    <h1>Titulo</h1>
     </div>
     </form>
 </body>
